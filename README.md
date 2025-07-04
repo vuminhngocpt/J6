@@ -6,6 +6,7 @@ Tôi Không Hoàn Toàn Có Công 100% Nhưng Rất Mất Thời Gian Để Test
 
 Các Bạn Ủng Hộ Cốc Cà Phê 5k Cũng Quý : Số TK ,0961900904 Mbbank Tên Nhận ,Vu Minh Ngoc 
 
+Liên Hệ :vuminhngocpt@gmail.com 
 
 [Hướng Dẫn Root Và Cài Recovery](test)
 [Hướng Dẫn Cài Rom Gốc](test)
