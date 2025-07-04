@@ -17,3 +17,5 @@ Liên Hệ :vuminhngocpt@gmail.com
 [Tải Về Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](https://androidfilehost.com/?fid=1899786940962614378) > load lại trang nếu bị lỗi và kiểm tra tệp có lỗi không
 
 [Tải Về Rom Gốc Android 8 J600G Cài Qua Odin](https://firmwarefile.com/samsung-sm-j600g)
+
+[Tải Về Android 10 Rom Google Pixel Cho J600X](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
