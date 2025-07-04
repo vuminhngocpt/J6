@@ -18,5 +18,6 @@ Liên Hệ :vuminhngocpt@gmail.com
 
 [Tải Về Rom Gốc Android 8 J600G Cài Qua Odin](https://firmwarefile.com/samsung-sm-j600g)
 
-> Rom Pixel Sẽ Không Dùng Volte Ở Một Số Quốc Gia Vietnam Sẽ Không Gọi Được
-[Tải Về Android 10 Rom Google Pixel Cho J600X](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
+>  (Ổn Định) Rom Pixel Sẽ Không Dùng Volte Ở Một Số Quốc Gia Vietnam Sẽ Không Gọi Được
+> 
+[Tải Về Android 10 Rom Google Pixel Cho J600X Tệp Zip ](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
