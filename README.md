@@ -14,5 +14,6 @@ Liên Hệ :vuminhngocpt@gmail.com
 
 [Hướng Dẫn Cài Rom Gốc Tất Cả Các Dòng Samsung ](https://mobilecity.vn/tin-tuc/huong-dan-up-rom-samsung-cuc-don-gian-bang-odin.html)
 
-[Tải Về Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](https://androidfilehost.com/?fid=1899786940962614378) load lại trang nếu bị lỗi và kiểm tra tệp có lỗi không
+[Tải Về Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](https://androidfilehost.com/?fid=1899786940962614378) > load lại trang nếu bị lỗi và kiểm tra tệp có lỗi không
+
 [Tải Về Rom Gốc Android 8 J600G Cài Qua Odin](https://firmwarefile.com/samsung-sm-j600g)
