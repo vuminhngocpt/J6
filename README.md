@@ -1,4 +1,4 @@
-#### Rom Samsung Galaxy J6
+### Rom Samsung Galaxy J6
 
  Lưu Ý : Các Bạn Nên Dùng Rom Gốc Để Ổn Định Và Tốt Nhất , Các Bản Rom Mod Có Thể Không Ổn Định , Rom Được Chính Tôi Thử Nghiệm Trên Mẫu : J600G Mà Tôi Có Nên Có Thể Có Sự Khác Biệt Về Sự Ổn Định 
 
