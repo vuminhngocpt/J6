@@ -20,4 +20,4 @@ Liên Hệ :vuminhngocpt@gmail.com
 
 >  (Ổn Định) Rom Pixel Sẽ Không Dùng Volte Ở Một Số Quốc Gia Vietnam Sẽ Không Gọi Được
 > 
-[Tải Về Android 10 Rom Google Pixel Cho J600X Tệp Zip ](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
+[Tải Về Android 10 Rom Google Pixel Cho J600X Tệp Zip TWRP ](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
