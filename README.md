@@ -10,3 +10,4 @@ Liên Hệ :vuminhngocpt@gmail.com
 
 [Hướng Dẫn Root Và Cài Recovery](test)
 [Hướng Dẫn Cài Rom Gốc](test)
+[Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](test)
