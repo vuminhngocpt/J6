@@ -12,4 +12,4 @@ Liên Hệ :vuminhngocpt@gmail.com
 
 [Hướng Dẫn Cài Rom Gốc](test)
 
-[Tải Về Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](https://androidfilehost.com/?fid=1899786940962614378)
+[Tải Về Rom Gốc Android 9 Tệp Zip Cài Bằng TWRP](https://androidfilehost.com/?fid=1899786940962614378) load lại trang nếu bị lỗi và kiểm tra tệp có lỗi không
