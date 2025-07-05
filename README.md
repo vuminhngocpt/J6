@@ -1,12 +1,12 @@
 ### Rom Samsung Galaxy J6
 
- Lưu Ý : Các Bạn Nên Dùng Rom Gốc Để Ổn Định Và Tốt Nhất , Các Bản Rom Mod Có Thể Không Ổn Định , Rom Được Chính Tôi Thử Nghiệm Trên Mẫu : J600G Mà Tôi Có Nên Có Thể Có Sự Khác Biệt Về Sự Ổn Định , Các Bạn Cũng Lưu Ý Phiên Bản Không Cài Bản Không Đúng Với Máy Mình Đang Dùng 
+ > Lưu Ý : Các Bạn Nên Dùng Rom Gốc Để Ổn Định Và Tốt Nhất , Các Bản Rom Mod Có Thể Không Ổn Định , Rom Được Chính Tôi Thử Nghiệm Trên Mẫu : J600G Mà Tôi Có Nên Có Thể Có Sự Khác Biệt Về Sự Ổn Định , Các Bạn Cũng Lưu Ý Phiên Bản Không Cài Bản Không Đúng Với Máy Mình Đang Dùng 
 
 > Tự Chịu Khi Bị Lỗi
 
-Tôi Không Hoàn Toàn Có Công 100% Nhưng Rất Mất Thời Gian Để Test 
+> Tôi Không Hoàn Toàn Có Công 100% Nhưng Rất Mất Thời Gian Để Test 
 
-Các Bạn Ủng Hộ Cốc Cà Phê 5k Cũng Quý : Số TK ,0961900904 Mbbank Tên Nhận ,Vu Minh Ngoc 
+> Các Bạn Ủng Hộ Cốc Cà Phê 5k Cũng Quý : Số TK ,0961900904 Mbbank Tên Nhận ,Vu Minh Ngoc 
 
 Liên Hệ :vuminhngocpt@gmail.com 
 
