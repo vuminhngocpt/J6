@@ -25,6 +25,8 @@ Liên Hệ :vuminhngocpt@gmail.com
 [Tải Về Android 10 Rom Google Pixel Cho J600X Tệp Zip TWRP ](https://sourceforge.net/projects/batuhan-s-builds/files/PixelExperince/PixelExperience_j6lte-10.0-20221118-1839-UNOFFICIAL.zip/download)
 >  (Ổn Định) Rom Pixel Sẽ Không Dùng Volte Ở Một Số Quốc Gia Vietnam Sẽ Không Gọi Được Volte
 
+[ Tải Về Rom A7 Pot Cho J6 ](https://1024terabox.com/s/1ZcuTdQL9Mp51zgeLKtGW3Q)
+  > Rom ổn định có volte 64bit cpu test ok nhà mạng viettel 
 
 
      ©️ 2025 Vu Minh Ngoc
