@@ -26,7 +26,7 @@ Liên Hệ :vuminhngocpt@gmail.com
 >  (Ổn Định) Rom Pixel Sẽ Không Dùng Volte Ở Một Số Quốc Gia Vietnam Sẽ Không Gọi Được Volte
 
 [ Tải Về Rom A7 Pot Cho J6 ](https://1024terabox.com/s/1ZcuTdQL9Mp51zgeLKtGW3Q)
-  > Rom ổn định có volte 64bit cpu test ok nhà mạng viettel 
+  > Rom ổn định  , bản rom này là bản android 9 duy nhất tôi test là bật tắt volte được trên mẫu j600g của tôi , rom đã bật cpu 64bit là bản rom 64bit pot samsung nhẹ nhất có thể thay rom gốc để sử dụng hàng ngày
 
 
      ©️ 2025 Vu Minh Ngoc
